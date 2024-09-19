@@ -7,9 +7,9 @@ This code is tested under torch==2.0.1 and Geforce RTX 3080
 # Dataset Preparation
 Datasets is precomputed as *.npy as follows:
 
-[PPMI_SPECT_816PD212NC.npy]()
+PPMI_SPECT_816PD212NC.npy
 
-[PPMI_F18AV133_36PD1NC.npy]()
+PPMI_F18AV133_36PD1NC.npy
 
 Dataset path is initially hard-coded in dataloader.
 If you hope to run this code without any modification, the datasets path should be set as follow.
