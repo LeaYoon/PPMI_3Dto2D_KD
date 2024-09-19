@@ -5,7 +5,9 @@ This is official github for our Paper "Enhancement and Evaluation for deep learn
 This code is tested under torch==2.0.1 and Geforce RTX 3080
 
 # Dataset Preparation
-Datasets is precomputed as *.npy as follows:
+Original dataset can be downloaded from [PPMI access data](https://www.ppmi-info.org/access-data-specimens/download-data).
+
+Datasets is precomputed as *.npy as follows: (TO BE UPLOADED)
 
 PPMI_SPECT_816PD212NC.npy
 
